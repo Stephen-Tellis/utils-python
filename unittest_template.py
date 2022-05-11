@@ -1,5 +1,18 @@
 #!/usr/bin/env python3
 
+"""! @brief A template for testing"""
+##
+# @section description_unittest_template Description
+#
+##
+# @file unittest_template.py
+#
+# @section libraries_unittest_template Libraries/Modules
+# - unittest
+#
+# @section author_unittest_template Author(s)
+# - Created by Stephen Tellis.
+
 # Internal Libs
 import unittest
 from unittest.mock import patch
